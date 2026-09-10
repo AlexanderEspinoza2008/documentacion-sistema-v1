@@ -25,5 +25,3 @@ def verificar_stock(cantidad):
 ```
  ## 5. Elaces Utiles
  git branch -M main
-git remote add origin https://github.com/AlexanderEspinoza2008/documentacion-sistema-v1/documentacion-sistema-v1.git
-git push -u origin main
