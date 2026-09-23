@@ -22,6 +22,3 @@ def verificar_stock(cantidad):
         return "Producto Disponible"
     else:
         return "Sin Stock"
-```
- ## 5. Elaces Utiles
- git branch -M main
