@@ -13,3 +13,12 @@ Se describe la interacción temporal entre la interfaz móvil, la API backend y 
 4. La base de datos responde con los datos del usuario.
 5. El servidor genera y retorna un token de sesión `200 OK`.
 6. La aplicación muestra la pantalla principal.
+   
+## 5. Enlaces Útiles
+- [Ver Arquitectura del Sistema](docs/arquitectura.md)
+[Ver Casos de Uso Hospitalarios](docs/arquitectura/casos-de-uso.md)
+- [Ver Diagrama de Secuencia de Login](docs/arquitectura/secuencia-autenticacion.md)
+- [Ver Arquitectura del Sistema](docs/arquitectura.md)
+- [Ver Manual de Usuario](docs/manual usuario.md)
+- [Ver Especificacion de API](docs/api_endpoints.md)
+- [Repositorio Oficial en GitHub] (https://github.com/AlexanderEspinoza2008/documentacion-sistema-v1-)
