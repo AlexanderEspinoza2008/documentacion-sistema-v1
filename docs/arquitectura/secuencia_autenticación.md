@@ -4,7 +4,7 @@
 Se describe la interacción temporal entre la interfaz móvil, la API backend y la base de datos para la validación de credenciales.
 
 ## 2. Diagrama UML de Secuencia
-![Diagrama de Secuencia Autenticacion](../assets/secuencia_autenticacion.png)
+![Diagrama de Secuencia Autenticacion](../assets/secuencia_autenticación.png)
 
 ## 3. Detalle de los Pasos
 1. El usuario ingresa sus credenciales en la aplicación.
