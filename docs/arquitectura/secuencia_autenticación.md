@@ -16,7 +16,7 @@ Se describe la interacción temporal entre la interfaz móvil, la API backend y 
    
 ## 5. Enlaces Útiles
 - [Ver Arquitectura del Sistema](docs/arquitectura.md)
-[Ver Casos de Uso Hospitalarios](docs/arquitectura/casos-de-uso.md)
+[Ver Casos de Uso Hospitalarios](docs/arquitectura/casos_de_uso.md)
 - [Ver Diagrama de Secuencia de Login](docs/arquitectura/secuencia-autenticacion.md)
 - [Ver Arquitectura del Sistema](docs/arquitectura.md)
 - [Ver Manual de Usuario](docs/manual usuario.md)
